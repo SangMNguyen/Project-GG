@@ -42,6 +42,8 @@ Home Page
 ---
 Main Features
 * Static NavBar on top
+* Fix Mail/Messages Icon?
+* Castle Icon for Home?
 * Search Query bar
 * Hottest (Spicy) Posts
 * News Feed
@@ -95,6 +97,7 @@ Main Features
 * Dark Theme/ Light Theme
 * Delete Groups
 * Manage Groups you have created
+* Interactive Mouse Settings?
 
 Post Page
 ---
